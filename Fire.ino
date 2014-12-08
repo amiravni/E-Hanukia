@@ -1,5 +1,3 @@
-#include <Servo.h>
-
 /*
 wires: 
  white-pin5
